@@ -1,13 +1,13 @@
-{
-  "name": "dex-tracker",
-  "version": "1.0.0",
-  "description": "Real-time DEX transaction tracking library",
+﻿{
+  "name": "eth-listen-transactions",
+  "version": "1.0.1",
+  "description": "Real-time Listen ethereum transactions from blockchain",
   "main": "dex-tracker.js",
   "scripts": {
     "start": "node example.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["dex", "trading", "blockchain", "websocket"],
+  "keywords": ["ethereum", "eth", "transactions", "trades", "dex", "trading", "blockchain", "websocket"],
   "author": "",
   "license": "ISC",
   "dependencies": {
