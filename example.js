@@ -14,7 +14,7 @@ tracker.on('error', (error) => {
   console.error('DexTracker error:', error);
 });
 
-tracker.connect('4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R');
+tracker.connect('0x9cdf242ef7975d8c68d5c1f5b6905801699b1940');
 
 // Optional: Disconnect after 1 minute
 setTimeout(() => {
