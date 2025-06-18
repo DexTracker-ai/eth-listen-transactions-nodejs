@@ -1,6 +1,6 @@
 ﻿{
   "name": "eth-listen-transactions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Real-time Listen ethereum transactions from blockchain",
   "main": "dex-tracker.js",
   "scripts": {
